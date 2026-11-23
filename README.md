@@ -1,6 +1,6 @@
 # Free Games Radar 🎮🔥 (Epic, Steam, GOG & More)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T06%3A18%3A26Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T06%3A20%3A37Z-brightgreen?style=flat-square)
 ![Free Now](https://img.shields.io/badge/Free%20Now-14-success?style=flat-square)
 ![Upcoming](https://img.shields.io/badge/Upcoming-2-blue?style=flat-square)
 ![Telegram Alerts](https://img.shields.io/badge/Telegram%20Bot-Active-26A5E4?style=flat-square)
@@ -47,7 +47,7 @@ Tracks temporarily 100% free PC games across **Epic Games Store, Steam, GOG, itc
 
 ## More Live Trackers & Analytics by OneForAllHub
 
-- 🌐 [**All Trackers Hub**](https://oneforallhub.github.io/) · 📊 [**Live Traffic Analytics Panel**](https://oneforallhub.github.io/panel.html) · 👤 [**GitHub Profile**](https://github.com/OneForAllHub)
+- 🌐 [**All Trackers Hub**](https://oneforallhub.github.io/OneForAllHub/) · 📊 [**Live Traffic Analytics Panel**](https://oneforallhub.github.io/OneForAllHub/panel.html) · 👤 [**GitHub Profile**](https://github.com/OneForAllHub)
 
 - [Free LLM APIs Live](https://github.com/OneForAllHub/free-llm-apis-live) ([Live Dashboard](https://oneforallhub.github.io/free-llm-apis-live/)) — Live verified free AI & LLM API models
 - [LLM Pricing Tracker](https://github.com/OneForAllHub/llm-pricing-tracker) ([Live Dashboard](https://oneforallhub.github.io/llm-pricing-tracker/)) — Daily LLM API token pricing & context comparison
