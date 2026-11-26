@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-26T12:56:02Z",
-  "count": 17,
+  "updated_at": "2026-11-26T18:42:22Z",
+  "count": 16,
   "games": [
+    {
+      "id": "gp-3858",
+      "title": "A Tiny Sticker Tale (Mobile) Giveaway",
+      "store": "Epic Games",
+      "status": "FREE NOW",
+      "worth": "$3.99",
+      "start_date": "2026-11-26 11:19",
+      "end_date": "2026-12-03 23:59:00",
+      "platforms": "Android, iOS",
+      "claim_url": "https://www.gamerpower.com/open/a-tiny-sticker-tale-mobile-giveaway",
+      "image": "https://www.gamerpower.com/offers/1b/6b085c2f77be3.jpg",
+      "description": "A Tiny Sticker Tale (Mobile version) is free until December 3 on the Epic Games Store App for iPhone, iPad, and Android.\r\n\r\nNote: May not be available in all regions.",
+      "source": "GamerPower"
+    },
+    {
+      "id": "epic-f0a333114190492c84a9decd2bb43875",
+      "title": "Bread and Fred",
+      "store": "Epic Games",
+      "status": "FREE NOW",
+      "worth": "$14.99",
+      "start_date": "2026-11-26 16:00 UTC",
+      "end_date": "2026-12-03 16:00 UTC",
+      "platforms": "PC (Epic Games Store)",
+      "claim_url": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362",
+      "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
+      "description": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble",
+      "source": "Epic Official API"
+    },
     {
       "id": "gp-3852",
       "title": "Contractor: The Clean Up Part 2 (Epic Games) Giveaway",
@@ -31,31 +59,17 @@
       "source": "GamerPower"
     },
     {
-      "id": "gp-3854",
-      "title": "Lonesome Village (Mobile) Giveaway",
+      "id": "epic-0623017cf9f341efbe07557f46beb4e8",
+      "title": "Firestone – Idle Clicker Online RPG",
       "store": "Epic Games",
       "status": "FREE NOW",
-      "worth": "$4.99",
-      "start_date": "2026-11-19 11:15",
-      "end_date": "2026-11-26 23:59:00",
-      "platforms": "Android, iOS",
-      "claim_url": "https://www.gamerpower.com/open/lonesome-village-mobile-giveaway",
-      "image": "https://www.gamerpower.com/offers/1b/6aff20a09cb65.jpg",
-      "description": "Chants of Sennaar (Mobile version) is free until November 26 on the Epic Games Store App for iPhone, iPad, and Android.\r\n\r\nNote: May not be available in all regions.",
-      "source": "GamerPower"
-    },
-    {
-      "id": "epic-1f9a12b06b4f437790b6913ad136a08c",
-      "title": "Mark of the Deep",
-      "store": "Epic Games",
-      "status": "FREE NOW",
-      "worth": "$19.99",
-      "start_date": "2026-11-19 16:00 UTC",
-      "end_date": "2026-11-26 16:00 UTC",
+      "worth": "Free",
+      "start_date": "2026-11-26 16:00 UTC",
+      "end_date": "2026-12-03 16:00 UTC",
       "platforms": "PC (Epic Games Store)",
-      "claim_url": "https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08",
-      "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
-      "description": "Mark of the Deep is an epic pirate-themed adventure with a strong narrative and a thrilling mix of Metroidvania and Souls-Like elements. Embark on this journey, explore the mysteries of a cursed island and find your missing pirate crew!",
+      "claim_url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+      "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg",
+      "description": "Your heroes never stop fighting. Build an unstoppable team in a fantasy idle RPG with AFK progression and offline rewards. Collect heroes and powerful gear, master formations, defeat epic bosses, and return to bigger rewards and endless inc",
       "source": "Epic Official API"
     },
     {
@@ -197,34 +211,6 @@
       "image": "https://www.gamerpower.com/offers/1b/689aece93310e.jpg",
       "description": "Ready to relive Sharknado? Grab Sharknado VR (Rift S, Rift) for free via Meta. Sharknado VR puts you in the middle of the action. Can you survive the flying sharks?",
       "source": "GamerPower"
-    },
-    {
-      "id": "epic-f0a333114190492c84a9decd2bb43875",
-      "title": "Bread and Fred",
-      "store": "Epic Games",
-      "status": "UPCOMING",
-      "worth": "$14.99",
-      "start_date": "2026-11-26 16:00 UTC",
-      "end_date": "2026-12-03 16:00 UTC",
-      "platforms": "PC (Epic Games Store)",
-      "claim_url": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362",
-      "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
-      "description": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble",
-      "source": "Epic Official API"
-    },
-    {
-      "id": "epic-0623017cf9f341efbe07557f46beb4e8",
-      "title": "Firestone – Idle Clicker Online RPG",
-      "store": "Epic Games",
-      "status": "UPCOMING",
-      "worth": "Free",
-      "start_date": "2026-11-26 16:00 UTC",
-      "end_date": "2026-12-03 16:00 UTC",
-      "platforms": "PC (Epic Games Store)",
-      "claim_url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
-      "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg",
-      "description": "Your heroes never stop fighting. Build an unstoppable team in a fantasy idle RPG with AFK progression and offline rewards. Collect heroes and powerful gear, master formations, defeat epic bosses, and return to bigger rewards and endless inc",
-      "source": "Epic Official API"
     },
     {
       "id": "epic-72bd05148adb4e2cacb8b2efaa4c0297",
