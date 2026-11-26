@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T06:54:01Z",
-  "count": 16,
+  "updated_at": "2026-11-26T12:56:02Z",
+  "count": 17,
   "games": [
     {
       "id": "gp-3852",
@@ -224,6 +224,20 @@
       "claim_url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
       "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg",
       "description": "Your heroes never stop fighting. Build an unstoppable team in a fantasy idle RPG with AFK progression and offline rewards. Collect heroes and powerful gear, master formations, defeat epic bosses, and return to bigger rewards and endless inc",
+      "source": "Epic Official API"
+    },
+    {
+      "id": "epic-72bd05148adb4e2cacb8b2efaa4c0297",
+      "title": "Strange Antiquities",
+      "store": "Epic Games",
+      "status": "UPCOMING",
+      "worth": "$17.99",
+      "start_date": "2026-12-03 16:00 UTC",
+      "end_date": "2026-12-10 16:00 UTC",
+      "platforms": "PC (Epic Games Store)",
+      "claim_url": "https://store.epicgames.com/en-US/p/strange-antiquities-e37660",
+      "image": "https://cdn1.epicgames.com/spt-assets/d0e3b7c3690c485ca7a435d298262ab2/strange-antiquities-1kl5s.png",
+      "description": "Strange Antiquities is a game set in Undermere, where you explore occult artifacts and solve dark mysteries. As an apprentice thaumaturge, you'll identify magical items and help townsfolk. A sequel to Strange Horticulture, it blends explora",
       "source": "Epic Official API"
     }
   ]

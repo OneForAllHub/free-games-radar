@@ -1,8 +1,8 @@
 # Free Games Radar 🎮🔥 (Epic, Steam, GOG & More)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26T06%3A54%3A01Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26T12%3A56%3A02Z-brightgreen?style=flat-square)
 ![Free Now](https://img.shields.io/badge/Free%20Now-14-success?style=flat-square)
-![Upcoming](https://img.shields.io/badge/Upcoming-2-blue?style=flat-square)
+![Upcoming](https://img.shields.io/badge/Upcoming-3-blue?style=flat-square)
 ![Telegram Alerts](https://img.shields.io/badge/Telegram%20Bot-Active-26A5E4?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
@@ -31,12 +31,13 @@ Tracks temporarily 100% free PC games across **Epic Games Store, Steam, GOG, itc
 | **Sausage Hunter (Indiegala) Giveaway** | DRM-Free | ~~$29.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/sausage-hunter-pc-giveaway) |
 | **Sharknado VR (Rift) Giveaway** | PC Store | ~~$1.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/sharknado-vr-rift-giveaway) |
 
-## ⏳ Upcoming Free Games (2)
+## ⏳ Upcoming Free Games (3)
 
 | Game | Store | Starts | Ends | Link |
 | --- | --- | --- | --- | --- |
 | **Bread and Fred** | Epic Games | 2026-11-26 16:00 UTC | 2026-12-03 16:00 UTC | [Preview](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) |
 | **Firestone – Idle Clicker Online RPG** | Epic Games | 2026-11-26 16:00 UTC | 2026-12-03 16:00 UTC | [Preview](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
+| **Strange Antiquities** | Epic Games | 2026-12-03 16:00 UTC | 2026-12-10 16:00 UTC | [Preview](https://store.epicgames.com/en-US/p/strange-antiquities-e37660) |
 
 ## Dedicated Topic & SEO Pages
 
