@@ -1,6 +1,6 @@
 # Free Games Radar 🎮🔥 (Epic, Steam, GOG & More)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T00%3A49%3A07Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T06%3A56%3A48Z-brightgreen?style=flat-square)
 ![Free Now](https://img.shields.io/badge/Free%20Now-15-success?style=flat-square)
 ![Upcoming](https://img.shields.io/badge/Upcoming-1-blue?style=flat-square)
 ![Telegram Alerts](https://img.shields.io/badge/Telegram%20Bot-Active-26A5E4?style=flat-square)
