@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T06:56:48Z",
-  "count": 16,
+  "updated_at": "2026-11-27T12:52:54Z",
+  "count": 18,
   "games": [
     {
       "id": "gp-3858",
@@ -45,6 +45,20 @@
       "source": "GamerPower"
     },
     {
+      "id": "gp-3860",
+      "title": "Dead Age 2 (GOG) Giveaway",
+      "store": "GOG",
+      "status": "FREE NOW",
+      "worth": "$17.99",
+      "start_date": "2026-11-27 06:30",
+      "end_date": "2026-11-30 23:59:00",
+      "platforms": "PC, GOG, DRM-Free",
+      "claim_url": "https://www.gamerpower.com/open/dead-age-2-gog-giveaway",
+      "image": "https://www.gamerpower.com/offers/1b/6b0969de22e37.jpg",
+      "description": "Download Dead Age 2 for free via GOG! Dead Age 2 is a fun indie survival RPG with rogue-like features, fast-paced turn-based combat and survival all in one.",
+      "source": "GamerPower"
+    },
+    {
       "id": "gp-3716",
       "title": "Dwarven Realms (Steam) Key Giveaway",
       "store": "Steam",
@@ -71,6 +85,20 @@
       "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg",
       "description": "Your heroes never stop fighting. Build an unstoppable team in a fantasy idle RPG with AFK progression and offline rewards. Collect heroes and powerful gear, master formations, defeat epic bosses, and return to bigger rewards and endless inc",
       "source": "Epic Official API"
+    },
+    {
+      "id": "gp-3859",
+      "title": "Vertical Drop Heroes HD Steam Key Giveaway",
+      "store": "Steam",
+      "status": "FREE NOW",
+      "worth": "$6.99",
+      "start_date": "2026-11-27 06:19",
+      "end_date": "2026-11-28 23:59:00",
+      "platforms": "PC, Steam",
+      "claim_url": "https://www.gamerpower.com/open/vertical-drop-heroes-hd-steam-key-giveaway",
+      "image": "https://www.gamerpower.com/offers/1b/6b0967296e680.jpg",
+      "description": "Claim your free Vertical Drop Heroes HD Steam key via Fanatical and keep this Steam game forever! Vertical Drop Heroes is a 2d procedural platformer RPG with roguelike elements. Don´t miss it!",
+      "source": "GamerPower"
     },
     {
       "id": "gp-3340",

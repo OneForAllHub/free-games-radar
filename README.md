@@ -1,7 +1,7 @@
 # Free Games Radar 🎮🔥 (Epic, Steam, GOG & More)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T06%3A56%3A48Z-brightgreen?style=flat-square)
-![Free Now](https://img.shields.io/badge/Free%20Now-15-success?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T12%3A52%3A54Z-brightgreen?style=flat-square)
+![Free Now](https://img.shields.io/badge/Free%20Now-17-success?style=flat-square)
 ![Upcoming](https://img.shields.io/badge/Upcoming-1-blue?style=flat-square)
 ![Telegram Alerts](https://img.shields.io/badge/Telegram%20Bot-Active-26A5E4?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
@@ -12,15 +12,17 @@ Tracks temporarily 100% free PC games across **Epic Games Store, Steam, GOG, itc
 🌐 **Live Visual Deals Dashboard:** [https://oneforallhub.github.io/free-games-radar/](https://oneforallhub.github.io/free-games-radar/) · 📡 **RSS:** [`feed.xml`](https://oneforallhub.github.io/free-games-radar/feed.xml)
 📦 **JSON:** [`data/free_games.json`](https://raw.githubusercontent.com/OneForAllHub/free-games-radar/main/data/free_games.json) · **CSV:** [`data/free_games.csv`](https://raw.githubusercontent.com/OneForAllHub/free-games-radar/main/data/free_games.csv)
 
-## 🎁 Temporarily Free Games Right Now (15)
+## 🎁 Temporarily Free Games Right Now (17)
 
 | Game | Store | Original Value | Offer Ends | Claim Link |
 | --- | --- | --- | --- | --- |
 | **A Tiny Sticker Tale (Mobile) Giveaway** | Epic Games | ~~$3.99~~ **FREE** | 2026-12-03 23:59:00 | [Claim Now](https://www.gamerpower.com/open/a-tiny-sticker-tale-mobile-giveaway) |
 | **Bread and Fred** | Epic Games | ~~$14.99~~ **FREE** | 2026-12-03 16:00 UTC | [Claim Now](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) |
 | **Contractor: The Clean Up Part 2 (Epic Games)…** | Epic Games | ~~$4.99~~ **FREE** | 2026-12-02 23:59:00 | [Claim Now](https://www.gamerpower.com/open/contractor-the-clean-up-part-2-epic-games-giveaway) |
+| **Dead Age 2 (GOG) Giveaway** | GOG | ~~$17.99~~ **FREE** | 2026-11-30 23:59:00 | [Claim Now](https://www.gamerpower.com/open/dead-age-2-gog-giveaway) |
 | **Dwarven Realms (Steam) Key Giveaway** | Steam | ~~$9.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway) |
 | **Firestone – Idle Clicker Online RPG** | Epic Games | ~~Free~~ **FREE** | 2026-12-03 16:00 UTC | [Claim Now](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
+| **Vertical Drop Heroes HD Steam Key Giveaway** | Steam | ~~$6.99~~ **FREE** | 2026-11-28 23:59:00 | [Claim Now](https://www.gamerpower.com/open/vertical-drop-heroes-hd-steam-key-giveaway) |
 | **ANCIENT EVIL (IndieGala) Giveaway** | DRM-Free | ~~$4.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/ancient-evil-pc-giveaway) |
 | **Battle Ram (IndieGala) Giveaway** | DRM-Free | ~~$29.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/battle-ram-pc-giveaway) |
 | **Best Plumber (IndieGala) Giveaway** | DRM-Free | ~~$29.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/best-plumber-pc-giveaway) |
