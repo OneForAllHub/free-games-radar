@@ -1,7 +1,7 @@
 # Free Games Radar 🎮🔥 (Epic, Steam, GOG & More)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T18%3A41%3A06Z-brightgreen?style=flat-square)
-![Free Now](https://img.shields.io/badge/Free%20Now-17-success?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--28T00%3A46%3A24Z-brightgreen?style=flat-square)
+![Free Now](https://img.shields.io/badge/Free%20Now-22-success?style=flat-square)
 ![Upcoming](https://img.shields.io/badge/Upcoming-1-blue?style=flat-square)
 ![Telegram Alerts](https://img.shields.io/badge/Telegram%20Bot-Active-26A5E4?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
@@ -12,7 +12,7 @@ Tracks temporarily 100% free PC games across **Epic Games Store, Steam, GOG, itc
 🌐 **Live Visual Deals Dashboard:** [https://oneforallhub.github.io/free-games-radar/](https://oneforallhub.github.io/free-games-radar/) · 📡 **RSS:** [`feed.xml`](https://oneforallhub.github.io/free-games-radar/feed.xml)
 📦 **JSON:** [`data/free_games.json`](https://raw.githubusercontent.com/OneForAllHub/free-games-radar/main/data/free_games.json) · **CSV:** [`data/free_games.csv`](https://raw.githubusercontent.com/OneForAllHub/free-games-radar/main/data/free_games.csv)
 
-## 🎁 Temporarily Free Games Right Now (17)
+## 🎁 Temporarily Free Games Right Now (22)
 
 | Game | Store | Original Value | Offer Ends | Claim Link |
 | --- | --- | --- | --- | --- |
@@ -24,15 +24,20 @@ Tracks temporarily 100% free PC games across **Epic Games Store, Steam, GOG, itc
 | **Firestone – Idle Clicker Online RPG** | Epic Games | ~~Free~~ **FREE** | 2026-12-03 16:00 UTC | [Claim Now](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
 | **Vertical Drop Heroes HD Steam Key Giveaway** | Steam | ~~$6.99~~ **FREE** | 2026-11-28 23:59:00 | [Claim Now](https://www.gamerpower.com/open/vertical-drop-heroes-hd-steam-key-giveaway) |
 | **ANCIENT EVIL (IndieGala) Giveaway** | DRM-Free | ~~$4.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/ancient-evil-pc-giveaway) |
+| **Ba Bị (itch.io) Giveaway** | itch.io | ~~$4.99~~ **FREE** | 2026-12-04 23:59:00 | [Claim Now](https://www.gamerpower.com/open/n-a) |
 | **Battle Ram (IndieGala) Giveaway** | DRM-Free | ~~$29.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/battle-ram-pc-giveaway) |
 | **Best Plumber (IndieGala) Giveaway** | DRM-Free | ~~$29.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/best-plumber-pc-giveaway) |
+| **Boots Quest DX (itch.io) Giveaway** | itch.io | ~~$9.99~~ **FREE** | 2026-11-30 23:59:59 | [Claim Now](https://www.gamerpower.com/open/boots-quest-dx-itch-io-giveaway) |
 | **Dual Chroma: Academy Carols (itch.io) Giveaw…** | itch.io | ~~$2.00~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway) |
 | **GigaBash (Stove) Giveaway** | PC Store | ~~$24.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/gigabash-pc-giveaway) |
 | **Last Room (IndieGala) Giveaway** | DRM-Free | ~~$29.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/last-room-pc-giveaway) |
 | **Leaper (IndieGala) Giveaway** | DRM-Free | ~~$4.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/leaper-pc-giveaway) |
+| **Lonely in the Winter (itch.io) Giveaway** | itch.io | ~~$2.99~~ **FREE** | 2026-12-06 23:59:00 | [Claim Now](https://www.gamerpower.com/open/lonely-in-the-winter-itch-io-giveaway) |
 | **My Darkest Witch (IndieGala) Giveaway** | DRM-Free | ~~$4.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/my-darkest-witch-pc-giveaway) |
 | **Mysterious House (IndieGala) Giveaway** | DRM-Free | ~~$0.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/mysterious-house-pc-giveaway) |
+| **Rulebound (itch.io) Giveaway** | itch.io | ~~$6.99~~ **FREE** | 2026-12-31 23:59:00 | [Claim Now](https://www.gamerpower.com/open/rulebound-itch-io-giveaway) |
 | **Sharknado VR (Rift) Giveaway** | PC Store | ~~$1.99~~ **FREE** | While supplies last | [Claim Now](https://www.gamerpower.com/open/sharknado-vr-rift-giveaway) |
+| **Tim-Tim 2: The Almighty Gnome (itch.io) Give…** | itch.io | ~~$3.99~~ **FREE** | 2026-12-02 23:59:01 | [Claim Now](https://www.gamerpower.com/open/tim-tim-2-the-almighty-gnome-itch-io-giveaway) |
 
 ## ⏳ Upcoming Free Games (1)
 
